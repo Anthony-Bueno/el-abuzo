@@ -1,0 +1,28 @@
+/Users/isw15/Documents/xml_prueba/obj/Debug/net7.0/xml_prueba.GeneratedMSBuildEditorConfig.editorconfig
+/Users/isw15/Documents/xml_prueba/obj/Debug/net7.0/xml_prueba.AssemblyInfoInputs.cache
+/Users/isw15/Documents/xml_prueba/obj/Debug/net7.0/xml_prueba.AssemblyInfo.cs
+/Users/isw15/Documents/xml_prueba/obj/Debug/net7.0/xml_prueba.csproj.CoreCompileInputs.cache
+/Users/isw15/Documents/xml_prueba/bin/Debug/net7.0/xml_prueba
+/Users/isw15/Documents/xml_prueba/bin/Debug/net7.0/xml_prueba.deps.json
+/Users/isw15/Documents/xml_prueba/bin/Debug/net7.0/xml_prueba.runtimeconfig.json
+/Users/isw15/Documents/xml_prueba/bin/Debug/net7.0/xml_prueba.dll
+/Users/isw15/Documents/xml_prueba/bin/Debug/net7.0/xml_prueba.pdb
+/Users/isw15/Documents/xml_prueba/obj/Debug/net7.0/xml_prueba.dll
+/Users/isw15/Documents/xml_prueba/obj/Debug/net7.0/refint/xml_prueba.dll
+/Users/isw15/Documents/xml_prueba/obj/Debug/net7.0/xml_prueba.pdb
+/Users/isw15/Documents/xml_prueba/obj/Debug/net7.0/xml_prueba.genruntimeconfig.cache
+/Users/isw15/Documents/xml_prueba/obj/Debug/net7.0/ref/xml_prueba.dll
+/Users/isw17/Desktop/Boletas ayuda/proyecto/xml_prueba/bin/Debug/net7.0/xml_prueba
+/Users/isw17/Desktop/Boletas ayuda/proyecto/xml_prueba/bin/Debug/net7.0/xml_prueba.deps.json
+/Users/isw17/Desktop/Boletas ayuda/proyecto/xml_prueba/bin/Debug/net7.0/xml_prueba.runtimeconfig.json
+/Users/isw17/Desktop/Boletas ayuda/proyecto/xml_prueba/bin/Debug/net7.0/xml_prueba.dll
+/Users/isw17/Desktop/Boletas ayuda/proyecto/xml_prueba/bin/Debug/net7.0/xml_prueba.pdb
+/Users/isw17/Desktop/Boletas ayuda/proyecto/xml_prueba/obj/Debug/net7.0/xml_prueba.GeneratedMSBuildEditorConfig.editorconfig
+/Users/isw17/Desktop/Boletas ayuda/proyecto/xml_prueba/obj/Debug/net7.0/xml_prueba.AssemblyInfoInputs.cache
+/Users/isw17/Desktop/Boletas ayuda/proyecto/xml_prueba/obj/Debug/net7.0/xml_prueba.AssemblyInfo.cs
+/Users/isw17/Desktop/Boletas ayuda/proyecto/xml_prueba/obj/Debug/net7.0/xml_prueba.csproj.CoreCompileInputs.cache
+/Users/isw17/Desktop/Boletas ayuda/proyecto/xml_prueba/obj/Debug/net7.0/xml_prueba.dll
+/Users/isw17/Desktop/Boletas ayuda/proyecto/xml_prueba/obj/Debug/net7.0/refint/xml_prueba.dll
+/Users/isw17/Desktop/Boletas ayuda/proyecto/xml_prueba/obj/Debug/net7.0/xml_prueba.pdb
+/Users/isw17/Desktop/Boletas ayuda/proyecto/xml_prueba/obj/Debug/net7.0/xml_prueba.genruntimeconfig.cache
+/Users/isw17/Desktop/Boletas ayuda/proyecto/xml_prueba/obj/Debug/net7.0/ref/xml_prueba.dll

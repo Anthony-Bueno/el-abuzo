@@ -1,0 +1,535 @@
+<?xml version="1.0"?> <?mso-application progid="Excel.Sheet"?> <ss:Workbook xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns:html="http://www.w3.org/TR/REC-html40">
+  <o:DocumentProperties>
+    <o:Author>SUNAT</o:Author>
+    <o:LastAuthor>SUNAT</o:LastAuthor>
+    <o:Created>2024-01-11T01:50:46Z</o:Created>
+    <o:LastSaved>2024-01-11T01:50:46Z</o:LastSaved>
+    <o:Company>Microsoft</o:Company>
+    <o:Version>12.00</o:Version>
+  </o:DocumentProperties>
+  <x:ExcelWorkbook>
+    <x:WindowHeight>12585</x:WindowHeight>
+    <x:WindowWidth>28515</x:WindowWidth>
+    <x:WindowTopX>120</x:WindowTopX>
+    <x:WindowTopY>90</x:WindowTopY>
+    <x:ProtectStructure>False</x:ProtectStructure>
+    <x:ProtectWindows>False</x:ProtectWindows>
+  </x:ExcelWorkbook>
+  <ss:Styles>
+    <ss:Style ss:ID="s62">
+      <ss:Borders>
+        <ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+        <ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+        <ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+      </ss:Borders>
+      <ss:Font ss:FontName="Calibri" ss:Family="Swiss" ss:Size="12" ss:Color="#000000" ss:Bold="0" ss:Italic="0"/>
+      <ss:Alignment ss:Vertical="Bottom" ss:Horizontal="Center" ss:WrapText="1"/>
+    </ss:Style>
+    <ss:Style ss:ID="s63">
+      <ss:Borders>
+        <ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+        <ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+        <ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+      </ss:Borders>
+      <ss:Font ss:FontName="Calibri" ss:Family="Swiss" ss:Size="12" ss:Color="#000000" ss:Bold="0" ss:Italic="0"/>
+      <ss:Alignment ss:Vertical="Bottom" ss:Horizontal="Center" ss:WrapText="1"/>
+    </ss:Style>
+    <ss:Style ss:ID="s64">
+      <ss:Borders>
+        <ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+        <ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+        <ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+        <ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+      </ss:Borders>
+      <ss:Font ss:FontName="Calibri" ss:Family="Swiss" ss:Size="12" ss:Color="#000000" ss:Bold="0" ss:Italic="0"/>
+      <ss:Alignment ss:Vertical="Bottom" ss:Horizontal="Center" ss:WrapText="1"/>
+    </ss:Style>
+    <ss:Style ss:ID="s65">
+      <ss:Borders>
+        <ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+        <ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+        <ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+      </ss:Borders>
+      <ss:Font ss:FontName="Calibri" ss:Family="Swiss" ss:Size="12" ss:Color="#000000" ss:Bold="0" ss:Italic="0"/>
+      <ss:Interior ss:Color="#DBE5F1" ss:Pattern="Solid"/>
+      <ss:Alignment ss:Vertical="Bottom" ss:Horizontal="Center" ss:WrapText="1"/>
+    </ss:Style>
+    <ss:Style ss:ID="s66">
+      <ss:Borders>
+        <ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+        <ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+        <ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+      </ss:Borders>
+      <ss:Font ss:FontName="Calibri" ss:Family="Swiss" ss:Size="12" ss:Color="#000000" ss:Bold="0" ss:Italic="0"/>
+      <ss:Interior ss:Color="#DBE5F1" ss:Pattern="Solid"/>
+      <ss:Alignment ss:Vertical="Bottom" ss:Horizontal="Center" ss:WrapText="1"/>
+    </ss:Style>
+    <ss:Style ss:ID="s67">
+      <ss:Borders>
+        <ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+        <ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+        <ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+        <ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+      </ss:Borders>
+      <ss:Font ss:FontName="Calibri" ss:Family="Swiss" ss:Size="12" ss:Color="#000000" ss:Bold="0" ss:Italic="0"/>
+      <ss:Interior ss:Color="#DBE5F1" ss:Pattern="Solid"/>
+      <ss:Alignment ss:Vertical="Bottom" ss:Horizontal="Center" ss:WrapText="1"/>
+    </ss:Style>
+    <ss:Style ss:ID="s68">
+      <ss:Borders>
+        <ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+        <ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+      </ss:Borders>
+      <ss:Font ss:FontName="Calibri" ss:Family="Swiss" ss:Size="12" ss:Color="#000000" ss:Bold="0" ss:Italic="0"/>
+      <ss:Interior ss:Color="#DBE5F1" ss:Pattern="Solid"/>
+      <ss:Alignment ss:Vertical="Bottom" ss:Horizontal="Center" ss:WrapText="1"/>
+    </ss:Style>
+    <ss:Style ss:ID="s69">
+      <ss:Borders>
+        <ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+      </ss:Borders>
+      <ss:Font ss:FontName="Calibri" ss:Family="Swiss" ss:Size="12" ss:Color="#000000" ss:Bold="0" ss:Italic="0"/>
+      <ss:Alignment ss:Vertical="Bottom" ss:Horizontal="Center" ss:WrapText="1"/>
+    </ss:Style>
+    <ss:Style ss:ID="s70">
+      <ss:Borders>
+        <ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+      </ss:Borders>
+      <ss:Font ss:FontName="Calibri" ss:Family="Swiss" ss:Size="12" ss:Color="#000000" ss:Bold="0" ss:Italic="0"/>
+      <ss:Alignment ss:Vertical="Bottom" ss:Horizontal="Center" ss:WrapText="1"/>
+    </ss:Style>
+    <ss:Style ss:ID="s71">
+      <ss:Borders>
+        <ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+      </ss:Borders>
+      <ss:Font ss:FontName="Calibri" ss:Family="Swiss" ss:Size="12" ss:Color="#000000" ss:Bold="0" ss:Italic="0"/>
+      <ss:Interior ss:Color="#DBE5F1" ss:Pattern="Solid"/>
+      <ss:Alignment ss:Vertical="Bottom" ss:Horizontal="Center" ss:WrapText="1"/>
+    </ss:Style>
+    <ss:Style ss:ID="s72">
+      <ss:Borders>
+        <ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+      </ss:Borders>
+      <ss:Font ss:FontName="Calibri" ss:Family="Swiss" ss:Size="12" ss:Color="#000000" ss:Bold="0" ss:Italic="0"/>
+      <ss:Alignment ss:Vertical="Bottom" ss:Horizontal="Center" ss:WrapText="1"/>
+      <ss:Interior ss:Color="#DBE5F1" ss:Pattern="Solid"/>
+    </ss:Style>
+    <ss:Style ss:ID="s73">
+      <ss:Borders>
+        <ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+      </ss:Borders>
+      <ss:Alignment ss:Vertical="Bottom" ss:Horizontal="Center" ss:WrapText="1"/>
+    </ss:Style>
+    <ss:Style ss:ID="s74">
+      <ss:Borders>
+        <ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+      </ss:Borders>
+      <ss:Alignment ss:Vertical="Bottom" ss:Horizontal="Center" ss:WrapText="1"/>
+    </ss:Style>
+    <ss:Style ss:ID="s75">
+      <ss:Borders>
+        <ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+        <ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+        <ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+      </ss:Borders>
+      <ss:Font ss:FontName="Calibri" ss:Family="Swiss" ss:Size="12" ss:Color="#000000" ss:Bold="0" ss:Italic="0"/>
+      <ss:Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
+    </ss:Style>
+    <ss:Style ss:ID="s76">
+      <ss:Borders>
+        <ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+        <ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+        <ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+      </ss:Borders>
+      <ss:Font ss:FontName="Calibri" ss:Family="Swiss" ss:Size="12" ss:Color="#000000" ss:Bold="0" ss:Italic="0"/>
+      <ss:Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
+    </ss:Style>
+    <ss:Style ss:ID="s77">
+      <ss:Borders>
+        <ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+        <ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+      </ss:Borders>
+      <ss:Font ss:FontName="Calibri" ss:Family="Swiss" ss:Size="12" ss:Color="#000000" ss:Bold="0" ss:Italic="0"/>
+      <ss:Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
+    </ss:Style>
+    <ss:Style ss:ID="s79">
+      <ss:Borders/>
+      <ss:NumberFormat ss:Format="Standard"/>
+    </ss:Style>
+    <ss:Style ss:ID="s80">
+      <ss:Borders/>
+      <ss:NumberFormat ss:Format="Standard"/>
+      <ss:Interior ss:Color="#DBE5F1" ss:Pattern="Solid"/>
+    </ss:Style>
+    <ss:Style ss:ID="s81">
+      <ss:Borders>
+        <ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+      </ss:Borders>
+      <ss:NumberFormat ss:Format="Standard"/>
+    </ss:Style>
+    <ss:Style ss:ID="s82">
+      <ss:Borders>
+        <ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+      </ss:Borders>
+      <ss:Alignment ss:Vertical="Bottom" ss:Horizontal="Right" ss:WrapText="0"/>
+      <ss:NumberFormat ss:Format="Standard"/>
+      <ss:Interior ss:Color="#DBE5F1" ss:Pattern="Solid"/>
+    </ss:Style>
+    <ss:Style ss:ID="s83">
+      <ss:Borders>
+        <ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+      </ss:Borders>
+      <ss:Font ss:FontName="Calibri" ss:Family="Swiss" ss:Size="12" ss:Color="#000000" ss:Bold="0" ss:Italic="0"/>
+      <ss:Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
+    </ss:Style>
+    <ss:Style ss:ID="s78">
+      <ss:Borders>
+        <ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+        <ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+        <ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+        <ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+      </ss:Borders>
+      <ss:Font ss:FontName="Calibri" ss:Family="Swiss" ss:Size="12" ss:Color="#000000" ss:Bold="0" ss:Italic="0"/>
+      <ss:Interior ss:Color="#C5D9F1" ss:Pattern="Solid"/>
+    </ss:Style>
+    <ss:Style ss:ID="s84">
+      <ss:Borders>
+        <ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+        <ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+        <ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+      </ss:Borders>
+      <ss:Font ss:FontName="Calibri" ss:Family="Swiss" ss:Size="10" ss:Color="#000000" ss:Bold="0" ss:Italic="0"/>
+      <ss:Interior ss:Color="#DBE5F1" ss:Pattern="Solid"/>
+      <ss:Alignment ss:Vertical="Bottom" ss:Horizontal="Center" ss:WrapText="1"/>
+    </ss:Style>
+    <ss:Style ss:ID="s85">
+      <ss:Borders/>
+      <ss:Font ss:FontName="Calibri" ss:Family="Swiss" ss:Size="12" ss:Color="#000000" ss:Bold="1" ss:Italic="0"/>
+    </ss:Style>
+    <ss:Style ss:ID="s86">
+      <ss:Borders/>
+      <ss:Font ss:FontName="Calibri" ss:Family="Swiss" ss:Size="8" ss:Color="#000000" ss:Bold="0" ss:Italic="1"/>
+    </ss:Style>
+    <ss:Style ss:ID="s87">
+      <ss:Borders>
+        <ss:Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+        <ss:Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+        <ss:Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+        <ss:Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+      </ss:Borders>
+      <ss:Font ss:FontName="Calibri" ss:Family="Swiss" ss:Size="10" ss:Color="#000000" ss:Bold="0" ss:Italic="0"/>
+      <ss:Alignment ss:Vertical="Bottom" ss:Horizontal="Center" ss:WrapText="0"/>
+      <ss:Interior ss:Color="#DBE5F1" ss:Pattern="Solid"/>
+    </ss:Style>
+  </ss:Styles>
+  <ss:Worksheet ss:Name="SUNAT-PDT">
+    <ss:Table ss:ExpandedColumnCount="10" ss:ExpandedRowCount="71" x:FullColumns="1" x:FullRows="1" ss:DefaultColumnWidth="60" ss:DefaultRowHeight="15">
+      <ss:Row ss:Index="2">
+        <ss:Cell ss:Index="2" ss:StyleID="s85" ss:MergeAcross="3">
+          <ss:Data ss:Type="String">R08: Trabajador – Datos de boleta de pago</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:Index="9">
+          <ss:Data ss:Type="String">11/01/2024</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row ss:Index="3">
+        <ss:Cell ss:Index="2" ss:MergeAcross="5">
+          <ss:Data ss:Type="String">(Contiene datos mínimos de una Boleta de Pago)</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:Index="9">
+          <ss:Data ss:Type="String">1:50:46</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row ss:Index="6">
+        <ss:Cell ss:Index="2" ss:StyleID="s75" ss:MergeAcross="7">
+          <ss:Data ss:Type="String">RUC : 20600695984</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row ss:Index="7">
+        <ss:Cell ss:Index="2" ss:StyleID="s77" ss:MergeAcross="7">
+          <ss:Data ss:Type="String">Empleador : IDS LATAM S.A.C.</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row ss:Index="8">
+        <ss:Cell ss:Index="2" ss:StyleID="s77" ss:MergeAcross="7">
+          <ss:Data ss:Type="String">Periodo : 01/2024</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row ss:Index="9">
+        <ss:Cell ss:Index="2" ss:StyleID="s76" ss:MergeAcross="7">
+          <ss:Data ss:Type="String">PDT Planilla Electrónica - PLAME            Número de Orden :</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row ss:Index="11">
+        <ss:Cell ss:Index="2" ss:StyleID="s84" ss:MergeAcross="1">
+          <ss:Data ss:Type="String">Documento de Identidad</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:Index="4" ss:StyleID="s65" ss:MergeAcross="3" ss:MergeDown="1">
+          <ss:Data ss:Type="String">Nombre y Apellidos</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:Index="8" ss:StyleID="s65" ss:MergeAcross="1" ss:MergeDown="1">
+          <ss:Data ss:Type="String">Situación</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row ss:Index="12">
+        <ss:Cell ss:Index="2" ss:StyleID="s65">
+          <ss:Data ss:Type="String">Tipo</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:Index="3" ss:StyleID="s65">
+          <ss:Data ss:Type="String">Número</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row ss:Index="13">
+        <ss:Cell ss:Index="2" ss:StyleID="s62">
+          <ss:Data ss:Type="String">DNI</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:Index="3" ss:StyleID="s62">
+          <ss:Data ss:Type="String">74955349</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:Index="4" ss:StyleID="s62" ss:MergeAcross="3">
+          <ss:Data ss:Type="String">CHRISTOPHER JESUS DAVID SULLCA RAMIREZ</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:Index="8" ss:StyleID="s62" ss:MergeAcross="1">
+          <ss:Data ss:Type="String">ACTIVO O SUBSIDIADO</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row ss:Index="14">
+        <ss:Cell ss:Index="2" ss:StyleID="s65" ss:MergeAcross="1">
+          <ss:Data ss:Type="String">Fecha de Ingreso</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:Index="4" ss:StyleID="s65" ss:MergeAcross="1">
+          <ss:Data ss:Type="String">Tipo de Trabajador</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:Index="6" ss:StyleID="s65" ss:MergeAcross="1">
+          <ss:Data ss:Type="String">Regimen Pensionario</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:Index="8" ss:StyleID="s65" ss:MergeAcross="1">
+          <ss:Data ss:Type="String">CUSPP</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row ss:Index="15">
+        <ss:Cell ss:Index="2" ss:StyleID="s62" ss:MergeAcross="1">
+          <ss:Data ss:Type="String">11/12/2023</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:Index="4" ss:StyleID="s62" ss:MergeAcross="1">
+          <ss:Data ss:Type="String">EMPLEADO</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:Index="6" ss:StyleID="s62" ss:MergeAcross="1">
+          <ss:Data ss:Type="String">DL 19990 - SIST NAC DE PENS - ONP</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:Index="8" ss:StyleID="s62" ss:MergeAcross="1">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row ss:Index="16">
+        <ss:Cell ss:Index="2" ss:StyleID="s65" ss:MergeDown="1">
+          <ss:Data ss:Type="String">Días Laborados</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:Index="3" ss:StyleID="s65" ss:MergeDown="1">
+          <ss:Data ss:Type="String">Días No Laborados</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:Index="4" ss:StyleID="s65" ss:MergeDown="1">
+          <ss:Data ss:Type="String">Días subsidiados</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:Index="5" ss:StyleID="s65" ss:MergeDown="1">
+          <ss:Data ss:Type="String">Condición</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:Index="6" ss:StyleID="s65" ss:MergeAcross="1">
+          <ss:Data ss:Type="String">Jornada Ordinaria</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:Index="8" ss:StyleID="s65" ss:MergeAcross="1">
+          <ss:Data ss:Type="String">Sobretiempo</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row ss:Index="17">
+        <ss:Cell ss:Index="6" ss:StyleID="s65">
+          <ss:Data ss:Type="String">Total Horas</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:Index="7" ss:StyleID="s65">
+          <ss:Data ss:Type="String">Minutos</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:Index="8" ss:StyleID="s65">
+          <ss:Data ss:Type="String">Total Horas</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:Index="9" ss:StyleID="s65">
+          <ss:Data ss:Type="String">Minutos</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row ss:Index="18">
+        <ss:Cell ss:Index="2" ss:StyleID="s62">
+          <ss:Data ss:Type="String">31</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:Index="3" ss:StyleID="s62">
+          <ss:Data ss:Type="String">0</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:Index="4" ss:StyleID="s62">
+          <ss:Data ss:Type="String">0</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:Index="5" ss:StyleID="s62">
+          <ss:Data ss:Type="String">Domiciliado</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:Index="6" ss:StyleID="s62">
+          <ss:Data ss:Type="String">208</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:Index="7" ss:StyleID="s62">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:Index="8" ss:StyleID="s62">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:Index="9" ss:StyleID="s62">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row ss:Index="19">
+        <ss:Cell ss:Index="2" ss:StyleID="s65" ss:MergeAcross="5">
+          <ss:Data ss:Type="String">Motivo de Suspensión de Labores</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:Index="8" ss:StyleID="s65" ss:MergeAcross="1" ss:MergeDown="1">
+          <ss:Data ss:Type="String">Otros empleadores por Rentas de 5ta categoría</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row ss:Index="20">
+        <ss:Cell ss:Index="2" ss:StyleID="s65">
+          <ss:Data ss:Type="String">Tipo</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:Index="3" ss:StyleID="s65" ss:MergeAcross="3">
+          <ss:Data ss:Type="String">Motivo</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:Index="7" ss:StyleID="s65">
+          <ss:Data ss:Type="String">N.º Días</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row ss:Index="21">
+        <ss:Cell ss:Index="2" ss:StyleID="s64">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:Index="3" ss:StyleID="s64" ss:MergeAcross="3">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:Index="7" ss:StyleID="s64">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:Index="8" ss:StyleID="s64" ss:MergeAcross="1">
+          <ss:Data ss:Type="String">No tiene</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row ss:Index="23">
+        <ss:Cell ss:Index="2" ss:StyleID="s87">
+          <ss:Data ss:Type="String">Código</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:Index="3" ss:StyleID="s87" ss:MergeAcross="3">
+          <ss:Data ss:Type="String">Conceptos</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:Index="7" ss:StyleID="s87">
+          <ss:Data ss:Type="String">Ingresos S/.</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:Index="8" ss:StyleID="s87">
+          <ss:Data ss:Type="String">Descuentos S/.</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:Index="9" ss:StyleID="s87">
+          <ss:Data ss:Type="String">Neto S/.</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row ss:Index="24">
+        <ss:Cell ss:Index="2" ss:StyleID="s77" ss:MergeAcross="7">
+          <ss:Data ss:Type="String">Ingresos</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row ss:Index="25">
+        <ss:Cell ss:Index="2" ss:StyleID="s69">
+          <ss:Data ss:Type="String">0121</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:Index="3" ss:MergeAcross="3">
+          <ss:Data ss:Type="String">REMUNERACIÓN O JORNAL BÁSICO</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:Index="7" ss:StyleID="s79">
+          <ss:Data ss:Type="Number">1800.00</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:Index="8" ss:StyleID="s70" ss:MergeAcross="1"/>
+      </ss:Row>
+      <ss:Row ss:Index="26">
+        <ss:Cell ss:Index="2" ss:StyleID="s77" ss:MergeAcross="7">
+          <ss:Data ss:Type="String">Descuentos</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row ss:Index="27">
+        <ss:Cell ss:Index="2" ss:StyleID="s77" ss:MergeAcross="7">
+          <ss:Data ss:Type="String">Aportes del Trabajador</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row ss:Index="28">
+        <ss:Cell ss:Index="2" ss:StyleID="s69">
+          <ss:Data ss:Type="String">0605</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:Index="3" ss:MergeAcross="3">
+          <ss:Data ss:Type="String">RENTA QUINTA CATEGORÍA RETENCIONES</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:Index="8" ss:StyleID="s79">
+          <ss:Data ss:Type="Number">0.00</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:Index="9" ss:StyleID="s81">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row ss:Index="29">
+        <ss:Cell ss:Index="2" ss:StyleID="s69">
+          <ss:Data ss:Type="String">0607</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:Index="3" ss:MergeAcross="3">
+          <ss:Data ss:Type="String">SISTEMA NAC. DE PENSIONES DL 19990</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:Index="8" ss:StyleID="s79">
+          <ss:Data ss:Type="Number">234.00</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:Index="9" ss:StyleID="s81">
+          <ss:Data ss:Type="String"></ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row ss:Index="30">
+        <ss:Cell ss:Index="2" ss:StyleID="s83" ss:MergeAcross="6">
+          <ss:Data ss:Type="String">Neto a Pagar</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:Index="9" ss:StyleID="s82">
+          <ss:Data ss:Type="Number">1566.00</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row ss:Index="31">
+        <ss:Cell ss:Index="2" ss:StyleID="s73" ss:MergeAcross="7"/>
+      </ss:Row>
+      <ss:Row ss:Index="32">
+        <ss:Cell ss:Index="2" ss:StyleID="s78" ss:MergeAcross="7">
+          <ss:Data ss:Type="String">Aportes de Empleador</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row ss:Index="33">
+        <ss:Cell ss:Index="2" ss:StyleID="s69">
+          <ss:Data ss:Type="String">0804</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:Index="3" ss:MergeAcross="3">
+          <ss:Data ss:Type="String">ESSALUD(REGULAR CBSSP AGRAR/AC)TRAB</ss:Data>
+        </ss:Cell>
+        <ss:Cell ss:Index="9" ss:StyleID="s81">
+          <ss:Data ss:Type="Number">162.00</ss:Data>
+        </ss:Cell>
+      </ss:Row>
+      <ss:Row ss:Index="34">
+        <ss:Cell ss:Index="2" ss:StyleID="s73" ss:MergeAcross="7"/>
+      </ss:Row>
+    </ss:Table>
+    <x:WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+      <PageSetup>
+        <Header x:Margin="0.2" x:Data="&amp;Z&amp;&quot;Calibri&quot;&amp;10Superintendencia Nacional de Aduanas y Administración Tributaria&amp;DPágina: &amp;#"/>
+        <Footer x:Margin="0.2" x:Data="Generado por el PDT Planilla Electrónica PLAME"/>
+        <PageMargins x:Top="0.74" x:Right="0.74" x:Bottom="0.98" x:Left="0.98"/>
+      </PageSetup>
+      <Print>
+        <ValidPrinterInfo/>
+        <PaperSizeIndex>9</PaperSizeIndex>
+        <Scale>80</Scale>
+        <HorizontalResolution>600</HorizontalResolution>
+        <VerticalResolution>600</VerticalResolution>
+      </Print>
+    </x:WorksheetOptions>
+  </ss:Worksheet>
+</ss:Workbook>
